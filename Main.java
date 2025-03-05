@@ -5,7 +5,7 @@
 */
 import java.awt.event.KeyEvent;
 import java.awt.*;
-public class EnesHamzaUstun {
+public class Main {
     public static void main(String[] args) {
         // Game Parameters
         int width = 1600; //screen width
